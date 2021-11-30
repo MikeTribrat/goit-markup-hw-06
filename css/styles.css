@@ -1109,4 +1109,5 @@ textarea {
 .policy{
   color: var(--third-text-color);
   text-decoration: underline;
+  text-decoration-skip-ink: none;
 }
